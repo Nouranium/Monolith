@@ -14,7 +14,7 @@ import GUI
 import Tutorial
 
 pygame.display.set_icon(Img.imgret2("Monolith.png"))
-pygame.display.set_caption("monolith")
+pygame.display.set_caption("Monolith")
 numplayers=1
 wgen=0
 pset=0
